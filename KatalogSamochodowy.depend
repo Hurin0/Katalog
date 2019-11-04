@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1572818615 source:c:\users\dell\desktop\projekty c++\katalogsamochodowy\main.cpp
+	"samochod.h"
+	"Katalog.h"
+
+1572813748 source:c:\users\dell\desktop\projekty c++\katalogsamochodowy\src\samochod.cpp
+	"samochod.h"
+
+1572813516 c:\users\dell\desktop\projekty c++\katalogsamochodowy\include\samochod.h
+	"Libs.h"
+
+1572610985 c:\users\dell\desktop\projekty c++\katalogsamochodowy\include\libs.h
+	<iostream>
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1572818732 source:c:\users\dell\desktop\projekty c++\katalogsamochodowy\src\katalog.cpp
+	"Katalog.h"
+
+1572816359 c:\users\dell\desktop\projekty c++\katalogsamochodowy\include\katalog.h
+	"samochod.h"
+
